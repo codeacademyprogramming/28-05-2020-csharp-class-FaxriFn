@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\task\task\bin\Debug\task.exe.config
+C:\Users\hp\source\repos\task\task\bin\Debug\task.exe
+C:\Users\hp\source\repos\task\task\bin\Debug\task.pdb
+C:\Users\hp\source\repos\task\task\obj\Debug\task.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\task\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\task\task\obj\Debug\task.exe
+C:\Users\hp\source\repos\task\task\obj\Debug\task.pdb
